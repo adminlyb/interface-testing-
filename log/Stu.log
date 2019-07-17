@@ -1,0 +1,5 @@
+2019-07-17 17:58:03,363 INFO [test_AddCase.py(test_add1:27)] - status_code=201
+2019-07-17 18:00:06,325 INFO [test_AddCase.py(test_add1:27)] - Add_status_code=201
+2019-07-17 18:00:06,338 INFO [test_QueryCase.py(test_query:14)] - query_status_code=200
+2019-07-17 18:00:06,356 INFO [test_UpdateCase.py(test_update:14)] - update_status_code=200
+2019-07-17 18:00:06,374 INFO [test_DeleteCase.py(test_delete:16)] - delete_status_code=204
